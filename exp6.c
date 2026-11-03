@@ -1,4 +1,4 @@
-  GNU nano 8.7.1                                                                                                   exp6.c                                                                                                             
+                                                                                     exp6.c                                                                                                             
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>

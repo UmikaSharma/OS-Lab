@@ -1,4 +1,4 @@
-  GNU nano 8.7.1                                                                                                   exp5.c                                                                                                             
+                                                                                exp5.c                                                                                                             
 #include <stdio.h>
 int main(){
 char str[100];

@@ -1,4 +1,4 @@
-  GNU nano 8.7.1                                                                                                   exp7a.c                                                                                                            
+                                                                                                  exp7a.c                                                                                                            
 #include<stdio.h>
 int main(){
 
